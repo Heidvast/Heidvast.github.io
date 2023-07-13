@@ -1,0 +1,21 @@
+body{
+ background-color: #000000;
+}
+.content{
+ width: 500px;
+ margin: 100px 500px;
+ padding: 10px 75px;
+ border: thin solid black;
+ border: 3px solid black;
+ background-color: #323232;
+ color: #ffffff;
+}
+h1 {
+ text-align: center;
+} 
+h2 {
+ text-align: center;
+} 
+p {
+ text-align: center;
+}
